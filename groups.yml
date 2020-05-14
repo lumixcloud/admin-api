@@ -1,0 +1,24 @@
+default:
+  displayName: '&7'
+  subgroups: []
+  default: true
+  priority: 0
+  permissions:
+  - '!minecraft.commands.*'
+lite:
+  displayName: '&bLite'
+  subgroups:
+  - 'default'
+  default: false
+  priority: 1
+  permissions:
+  - 'donate.lite'
+premium:
+  displayName: '&6Premium'
+  subgroups:
+  - 'default'
+  - 'lite'
+  default: false
+  priority: 2
+  permissions:
+  - 'donate.premium'
