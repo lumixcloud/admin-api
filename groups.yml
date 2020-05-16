@@ -65,6 +65,6 @@ support:
   - 'quantum'
   - 'ruby'
   default: false
-  priority: 5
+  priority: 6
   permissions:
   - 'donate.support'
