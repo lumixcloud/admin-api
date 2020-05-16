@@ -6,7 +6,7 @@ default:
   permissions:
   - '!minecraft.commands.*'
 lite:
-  displayName: '&bLite'
+  displayName: '&bLite '
   subgroups:
   - 'default'
   default: false
@@ -14,7 +14,7 @@ lite:
   permissions:
   - 'donate.lite'
 premium:
-  displayName: '&6Premium'
+  displayName: '&6Premium '
   subgroups:
   - 'default'
   - 'lite'
@@ -22,3 +22,49 @@ premium:
   priority: 2
   permissions:
   - 'donate.premium'
+magma:
+  displayName: '&cMagma '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  default: false
+  priority: 3
+  permissions:
+  - 'donate.magma'
+quantum:
+  displayName: '&2Quantum '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  default: false
+  priority: 4
+  permissions:
+  - 'donate.quantum'
+ruby:
+  displayName: '&dRuby '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  default: false
+  priority: 5
+  permissions:
+  - 'donate.ruby'
+support:
+  displayName: '&eSupport '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  default: false
+  priority: 5
+  permissions:
+  - 'donate.support'
