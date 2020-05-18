@@ -27,6 +27,17 @@ gus
 +lus
 +lius
 +nus
++trex
++eher
++zus
++pous
++1337
++xx
++__
++X_
++x_
++_x
++_X
 +es
 +ius -c
 +cus
@@ -76,44 +87,24 @@ deth +v
 dre -v
 drim -v
 dul
-ean -c
-el
-emar
 hal
-iat -c
 mah
 ten
 que -v +c
 ria
 rail
-ther
-thus
-thi
 san
-+ael -c
 +dar
 +deth
 +dre
 +drim
 +dul
-+ean -c
-+el
-+emar
 +nes
-+nin
-+oth
 +hal
-+iat
-+mah
 +ten
-+ther
-+thus
-+thi
 +ran
-+ath
 +ess
 +san
-+yth
 +las
 +lian
 +evar
