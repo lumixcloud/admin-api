@@ -7,6 +7,7 @@ default:
   - '!minecraft.commands.*'
 lite:
   displayName: '&bLite '
+  donate: true
   subgroups:
   - 'default'
   default: false
@@ -15,6 +16,7 @@ lite:
   - 'donate.lite'
 premium:
   displayName: '&6Premium '
+  donate: true
   subgroups:
   - 'default'
   - 'lite'
@@ -24,6 +26,7 @@ premium:
   - 'donate.premium'
 magma:
   displayName: '&cMagma '
+  donate: true
   subgroups:
   - 'default'
   - 'lite'
@@ -34,6 +37,7 @@ magma:
   - 'donate.magma'
 quantum:
   displayName: '&2Quantum '
+  donate: true
   subgroups:
   - 'default'
   - 'lite'
@@ -45,6 +49,7 @@ quantum:
   - 'donate.quantum'
 ruby:
   displayName: '&dRuby '
+  donate: true
   subgroups:
   - 'default'
   - 'lite'
@@ -57,6 +62,7 @@ ruby:
   - 'donate.ruby'
 support:
   displayName: '&eSupport '
+  donate: true
   subgroups:
   - 'default'
   - 'lite'
@@ -68,3 +74,48 @@ support:
   priority: 6
   permissions:
   - 'donate.support'
+moder:
+  displayName: '&9Moder '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
+  default: false
+  priority: 7
+  permissions:
+  - 'staff.moder'
+hmoder:
+  displayName: '&9H-Moder '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
+  - 'moder'
+  default: false
+  priority: 8
+  permissions:
+  - 'staff.hmoder'
+admin:
+  displayName: '&4Admin '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
+  - 'moder'
+  - 'hmoder'
+  default: false
+  priority: 8
+  permissions:
+  - 'staff.admin'
