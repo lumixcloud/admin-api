@@ -68,6 +68,29 @@ support:
   priority: 6
   permissions:
   - 'donate.support'
+builder:
+  displayName: '&3Builder '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  priority: 7
+  permissions:
+  - 'staff.builder'
+hbuilder:
+  displayName: '&3H-Builder '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'builder'
+  priority: 8
+  permissions:
+  - 'staff.hbuilder'
 moder:
   displayName: '&9Moder '
   subgroups:
@@ -78,7 +101,7 @@ moder:
   - 'quantum'
   - 'ruby'
   - 'support'
-  priority: 7
+  priority: 9
   permissions:
   - 'staff.moder'
 hmoder:
@@ -92,7 +115,7 @@ hmoder:
   - 'ruby'
   - 'support'
   - 'moder'
-  priority: 8
+  priority: 10
   permissions:
   - 'staff.hmoder'
 admin:
@@ -107,6 +130,6 @@ admin:
   - 'support'
   - 'moder'
   - 'hmoder'
-  priority: 9
+  priority: 11
   permissions:
   - 'staff.admin'
