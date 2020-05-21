@@ -1,9 +1,11 @@
+# Стандартный ранг игрока
 default:
   displayName: '&7'
   subgroups: []
   default: true
   permissions:
   - '!minecraft.commands.*'
+# Привилегии
 lite:
   displayName: '&bLite '
   donate: true
@@ -67,6 +69,7 @@ support:
   - 'ruby'
   permissions:
   - 'donate.support'
+# Стафф привилегии
 builder:
   displayName: '&3Builder '
   subgroups:
