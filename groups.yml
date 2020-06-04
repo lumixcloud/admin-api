@@ -44,6 +44,14 @@ quantum:
   - 'magma'
   permissions:
   - 'donate.quantum'
+organize:
+  displayName: '&3Организатор'
+  donate: true
+  boost: 1.1
+  subgroups:
+  - 'default'
+  permissions:
+  - 'donate.organize'
 ruby:
   displayName: '&dRuby '
   donate: true
