@@ -71,7 +71,7 @@ support:
   - 'donate.support'
 # Стафф привилегии
 organizer:
-  displayName: '&3Организатор'
+  displayName: '&3Организатор '
   subgroups:
   - 'default'
   permissions:
