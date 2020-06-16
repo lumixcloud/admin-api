@@ -69,6 +69,13 @@ support:
   - 'ruby'
   permissions:
   - 'donate.support'
+youtube:
+  displayName: '&cYou&fTube &c'
+  boost: 1.3
+  subgroups:
+  - 'default'
+  permissions:
+  - 'donate.youtube'
 # Стафф привилегии
 organizer:
   displayName: '&3Организатор '
@@ -99,6 +106,7 @@ hbuilder:
   - 'staff.hbuilder'
 moder:
   displayName: '&9Moder '
+  boost: 1.5
   subgroups:
   - 'default'
   - 'lite'
