@@ -119,7 +119,7 @@ tmoder:
   - 'staff.tmoder'
 moder:
   displayName: '&9Moder '
-  boost: 1.5
+  boost: 1.6
   subgroups:
   - 'default'
   - 'lite'
@@ -132,6 +132,7 @@ moder:
   - 'staff.moder'
 hmoder:
   displayName: '&9H-Moder '
+  boost: 1.7
   subgroups:
   - 'default'
   - 'lite'
@@ -145,6 +146,7 @@ hmoder:
   - 'staff.hmoder'
 admin:
   displayName: '&4Admin '
+  boost: 2.0
   subgroups:
   - 'default'
   - 'lite'
