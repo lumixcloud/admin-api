@@ -104,6 +104,19 @@ hbuilder:
   - 'builder'
   permissions:
   - 'staff.hbuilder'
+tmoder:
+  displayName: '&9T-Moder '
+  boost: 1.5
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
+  permissions:
+  - 'staff.tmoder'
 moder:
   displayName: '&9Moder '
   boost: 1.5
