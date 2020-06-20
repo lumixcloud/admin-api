@@ -131,7 +131,7 @@ hmoder:
   permissions:
   - 'staff.hmoder'
 admin:
-  displayName: '&4Admin '
+  displayName: '&4Админ &8| &4'
   subgroups:
   - 'default'
   - 'lite'
