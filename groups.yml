@@ -171,4 +171,4 @@ developer:
   - 'hmoder'
   - 'admin'
   permissions:
-  - 'staff.developer'
+  - '*'
