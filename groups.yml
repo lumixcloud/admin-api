@@ -111,9 +111,6 @@ tmoder:
   - 'lite'
   - 'premium'
   - 'magma'
-  - 'quantum'
-  - 'ruby'
-  - 'support'
   permissions:
   - 'staff.tmoder'
 moder:
@@ -123,9 +120,7 @@ moder:
   - 'lite'
   - 'premium'
   - 'magma'
-  - 'quantum'
-  - 'ruby'
-  - 'support'
+  - 'tmoder'
   permissions:
   - 'staff.moder'
 hmoder:
@@ -138,6 +133,7 @@ hmoder:
   - 'quantum'
   - 'ruby'
   - 'support'
+  - 'tmoder'
   - 'moder'
   permissions:
   - 'staff.hmoder'
@@ -151,7 +147,28 @@ admin:
   - 'quantum'
   - 'ruby'
   - 'support'
+  - 'tmoder'
   - 'moder'
+  - 'builder'
+  - 'hbuilder'
   - 'hmoder'
   permissions:
   - 'staff.admin'
+developer:
+  displayName: '&2Developer '
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
+  - 'tmoder'
+  - 'moder'
+  - 'builder'
+  - 'hbuilder'
+  - 'hmoder'
+  - 'admin'
+  permissions:
+  - 'staff.developer'
