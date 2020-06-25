@@ -83,6 +83,7 @@ organizer:
   - 'default'
   permissions:
   - 'donate.organizer'
+  - 'staff.ban'
 builder:
   displayName: '&3Builder '
   subgroups:
@@ -93,6 +94,7 @@ builder:
   - 'quantum'
   permissions:
   - 'staff.builder'
+  - 'staff.chat'
 hbuilder:
   displayName: '&3H-Builder '
   subgroups:
@@ -113,6 +115,7 @@ tmoder:
   - 'magma'
   permissions:
   - 'staff.tmoder'
+  - 'staff.chat'
 moder:
   displayName: '&9Moder '
   subgroups:
@@ -123,6 +126,7 @@ moder:
   - 'tmoder'
   permissions:
   - 'staff.moder'
+  - 'staff.ban'
 hmoder:
   displayName: '&9H-Moder '
   subgroups:
@@ -166,6 +170,7 @@ developer:
   - 'support'
   - 'tmoder'
   - 'moder'
+  - 'organizer'
   - 'builder'
   - 'hbuilder'
   - 'hmoder'
