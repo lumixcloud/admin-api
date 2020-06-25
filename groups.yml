@@ -177,3 +177,22 @@ developer:
   - 'admin'
   permissions:
   - '*'
+owner:
+  displayName: '&4&lOWNER &4'
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
+  - 'tmoder'
+  - 'moder'
+  - 'organizer'
+  - 'builder'
+  - 'hbuilder'
+  - 'hmoder'
+  - 'admin'
+  - 'developer'
+  permissions: []
