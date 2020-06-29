@@ -56,6 +56,7 @@ ruby:
   - 'quantum'
   permissions:
   - 'donate.ruby'
+  - 'disguise.use'
 support:
   displayName: '&eSUPPORT &8| &e'
   donate: true
@@ -127,6 +128,7 @@ moder:
   permissions:
   - 'staff.moder'
   - 'staff.ban'
+  - 'disguise.use'
 hmoder:
   displayName: '&b&lHEAD-MODER &8| &b'
   subgroups:
