@@ -1,13 +1,13 @@
 # Стандартный ранг игрока
 default:
-  displayName: '&7'
+  displayName: 'ΕARLY'
   subgroups: []
   default: true
   permissions:
   - '!minecraft.commands.*'
 # Привилегии
 lite:
-  displayName: '&bLite '
+  displayName: '&3LITE &8| &3'
   donate: true
   boost: 1.2
   subgroups:
@@ -15,7 +15,7 @@ lite:
   permissions:
   - 'donate.lite'
 premium:
-  displayName: '&6Premium '
+  displayName: '&6PREMIUM &8| &6'
   donate: true
   boost: 1.4
   subgroups:
@@ -24,7 +24,7 @@ premium:
   permissions:
   - 'donate.premium'
 magma:
-  displayName: '&cMagma '
+  displayName: '&cMAGMA &8| &c'
   donate: true
   boost: 1.6
   subgroups:
@@ -34,7 +34,7 @@ magma:
   permissions:
   - 'donate.magma'
 quantum:
-  displayName: '&2Quantum '
+  displayName: '&aQUANTUM &8| &a'
   donate: true
   boost: 1.8
   subgroups:
@@ -45,7 +45,7 @@ quantum:
   permissions:
   - 'donate.quantum'
 ruby:
-  displayName: '&dRuby '
+  displayName: '&5RUBY &8| &5'
   donate: true
   boost: 2.0
   subgroups:
@@ -57,7 +57,7 @@ ruby:
   permissions:
   - 'donate.ruby'
 support:
-  displayName: '&eSupport '
+  displayName: '&eSUPPORT &8| &e'
   donate: true
   boost: 2.5
   subgroups:
@@ -70,7 +70,7 @@ support:
   permissions:
   - 'donate.support'
 youtube:
-  displayName: '&cYou&fTube &c'
+  displayName: '&cYou&fTube &8| &c'
   boost: 1.3
   subgroups:
   - 'default'
@@ -78,14 +78,14 @@ youtube:
   - 'donate.youtube'
 # Стафф привилегии
 organizer:
-  displayName: '&3Организатор '
+  displayName: '&fHOSTER &8| &f'
   subgroups:
   - 'default'
   permissions:
   - 'donate.organizer'
   - 'staff.ban'
 builder:
-  displayName: '&3Builder '
+  displayName: '&d&lBUILDER &8| &d'
   subgroups:
   - 'default'
   - 'lite'
@@ -96,7 +96,7 @@ builder:
   - 'staff.builder'
   - 'staff.chat'
 hbuilder:
-  displayName: '&3H-Builder '
+  displayName: '&d&lHEAD-BUILDER &8| &d'
   subgroups:
   - 'default'
   - 'lite'
@@ -107,7 +107,7 @@ hbuilder:
   permissions:
   - 'staff.hbuilder'
 tmoder:
-  displayName: '&9T-Moder '
+  displayName: '&9&lTRIAL-MODER &8| &9'
   subgroups:
   - 'default'
   - 'lite'
@@ -117,7 +117,7 @@ tmoder:
   - 'staff.tmoder'
   - 'staff.chat'
 moder:
-  displayName: '&9Moder '
+  displayName: '&9&lMODER &8| &9'
   subgroups:
   - 'default'
   - 'lite'
@@ -128,7 +128,7 @@ moder:
   - 'staff.moder'
   - 'staff.ban'
 hmoder:
-  displayName: '&9H-Moder '
+  displayName: '&b&lHEAD-MODER &8| &b'
   subgroups:
   - 'default'
   - 'lite'
@@ -142,7 +142,7 @@ hmoder:
   permissions:
   - 'staff.hmoder'
 admin:
-  displayName: '&4Admin '
+  displayName: '&c&lADMIN &8| &c'
   subgroups:
   - 'default'
   - 'lite'
@@ -159,7 +159,7 @@ admin:
   permissions:
   - 'staff.admin'
 developer:
-  displayName: '&2Developer '
+  displayName: '&2DEV &8| &3'
   subgroups:
   - 'default'
   - 'lite'
@@ -178,7 +178,7 @@ developer:
   permissions:
   - '*'
 owner:
-  displayName: '&4&lOWNER &4'
+  displayName: '&4&lOWNER &8| &4'
   subgroups:
   - 'default'
   - 'lite'
