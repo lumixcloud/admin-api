@@ -1,6 +1,6 @@
 # Стандартный ранг игрока
 default:
-  displayName: '&1ΕARLY &8| &1'
+  displayName: '&7&lΣarly &8| &1'
   subgroups: []
   default: true
   permissions:
@@ -161,7 +161,7 @@ admin:
   permissions:
   - 'staff.admin'
 developer:
-  displayName: '&2DEV &8| &3'
+  displayName: '&2&lDEV &8| &2'
   subgroups:
   - 'default'
   - 'lite'
