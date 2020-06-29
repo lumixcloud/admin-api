@@ -1,6 +1,6 @@
 # Стандартный ранг игрока
 default:
-  displayName: '&7&lΣarly &8| &1'
+  displayName: '&7Σarly &8| &7'
   subgroups: []
   default: true
   permissions:
