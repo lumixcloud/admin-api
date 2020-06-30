@@ -45,7 +45,7 @@ quantum:
   permissions:
   - 'donate.quantum'
 ruby:
-  displayName: '&d&lRUBY &'
+  displayName: '&d&lRUBY &d'
   donate: true
   boost: 2.0
   subgroups:
