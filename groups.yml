@@ -86,7 +86,7 @@ organizer:
   - 'donate.organizer'
   - 'staff.ban'
 builder:
-  displayName: '&3&lBUILDER &d'
+  displayName: '&3&lBUILDER &3'
   subgroups:
   - 'default'
   - 'lite'
