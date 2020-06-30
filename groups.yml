@@ -7,7 +7,7 @@ default:
   - '!minecraft.commands.*'
 # Привилегии
 lite:
-  displayName: '&b&lLITE &3'
+  displayName: '&b&lLITE &b
   donate: true
   boost: 1.2
   subgroups:
