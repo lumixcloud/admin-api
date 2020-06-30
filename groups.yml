@@ -79,7 +79,7 @@ youtube:
   - 'donate.youtube'
 # Стафф привилегии
 organizer:
-  displayName: '&fHOSTER &f'
+  displayName: '&f&lHOSTER &f'
   subgroups:
   - 'default'
   permissions:
