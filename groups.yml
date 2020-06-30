@@ -1,13 +1,13 @@
 # Стандартный ранг игрока
 default:
-  displayName: '&7Σarly &7'
+  displayName: '&7ΣARLY &7'
   subgroups: []
   default: true
   permissions:
   - '!minecraft.commands.*'
 # Привилегии
 lite:
-  displayName: '&3&lLITE &3'
+  displayName: '&b&lLITE &3'
   donate: true
   boost: 1.2
   subgroups:
@@ -45,7 +45,7 @@ quantum:
   permissions:
   - 'donate.quantum'
 ruby:
-  displayName: '&5&lRUBY &5'
+  displayName: '&d&lRUBY &5'
   donate: true
   boost: 2.0
   subgroups:
@@ -86,7 +86,7 @@ organizer:
   - 'donate.organizer'
   - 'staff.ban'
 builder:
-  displayName: '&d&lBUILDER &d'
+  displayName: '&3&lBUILDER &d'
   subgroups:
   - 'default'
   - 'lite'
@@ -97,7 +97,7 @@ builder:
   - 'staff.builder'
   - 'staff.chat'
 hbuilder:
-  displayName: '&d&lHEAD-BUILDER &d'
+  displayName: '&3&lH-BUILDER &3'
   subgroups:
   - 'default'
   - 'lite'
@@ -108,7 +108,7 @@ hbuilder:
   permissions:
   - 'staff.hbuilder'
 tmoder:
-  displayName: '&9&lTRIAL-MODER &9'
+  displayName: '&9&lT-MODER &9'
   subgroups:
   - 'default'
   - 'lite'
@@ -130,7 +130,7 @@ moder:
   - 'staff.ban'
   - 'disguise.use'
 hmoder:
-  displayName: '&b&lHEAD-MODER &b'
+  displayName: '&9&lH-MODER &b'
   subgroups:
   - 'default'
   - 'lite'
