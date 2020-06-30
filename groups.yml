@@ -130,7 +130,7 @@ moder:
   - 'staff.ban'
   - 'disguise.use'
 hmoder:
-  displayName: '&9&lH-MODER &b'
+  displayName: '&9&lH-MODER &9'
   subgroups:
   - 'default'
   - 'lite'
