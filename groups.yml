@@ -9,6 +9,7 @@ default:
 lite:
   displayName: '&b&lLITE &b'
   donate: true
+  reward-buy: 500
   boost: 1.2
   subgroups:
   - 'default'
@@ -18,6 +19,7 @@ premium:
   displayName: '&6&lPREMIUM &6'
   donate: true
   boost: 1.4
+  reward-buy: 600
   subgroups:
   - 'default'
   - 'lite'
@@ -27,6 +29,7 @@ magma:
   displayName: '&c&lMAGMA &c'
   donate: true
   boost: 1.6
+  reward-buy: 700
   subgroups:
   - 'default'
   - 'lite'
@@ -36,6 +39,7 @@ magma:
 quantum:
   displayName: '&a&lQUANTUM &a'
   donate: true
+  reward-buy: 800
   boost: 1.8
   subgroups:
   - 'default'
@@ -48,6 +52,7 @@ ruby:
   displayName: '&d&lRUBY &d'
   donate: true
   boost: 2.0
+  reward-buy: 900
   subgroups:
   - 'default'
   - 'lite'
@@ -61,6 +66,7 @@ support:
   displayName: '&e&lSUPPORT &e'
   donate: true
   boost: 2.5
+  reward-buy: 1500
   subgroups:
   - 'default'
   - 'lite'
