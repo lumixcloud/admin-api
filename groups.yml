@@ -137,6 +137,7 @@ moder:
   - 'disguise.use'
 hmoder:
   displayName: '&9&lH-MODER &9'
+  secure: true
   subgroups:
   - 'default'
   - 'lite'
@@ -151,6 +152,7 @@ hmoder:
   - 'staff.hmoder'
 admin:
   displayName: '&c&lADMIN &c'
+  secure: true
   subgroups:
   - 'default'
   - 'lite'
@@ -168,6 +170,7 @@ admin:
   - 'staff.admin'
 developer:
   displayName: '&2&lDEV &2'
+  secure: true
   subgroups:
   - 'default'
   - 'lite'
@@ -187,6 +190,7 @@ developer:
   - '*'
 owner:
   displayName: '&4&lOWNER &4'
+  secure: true
   subgroups:
   - 'default'
   - 'lite'
