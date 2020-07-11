@@ -137,7 +137,6 @@ moder:
   - 'disguise.use'
 hmoder:
   displayName: '&9&lH-MODER &9'
-  secure: true
   subgroups:
   - 'default'
   - 'lite'
