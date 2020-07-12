@@ -14,6 +14,20 @@
 -eu +c
 -fa
 bi
+ji
+dy
+rem
+fi
+fe
+lip
+mie
+def
+si
+sha
+er
+de
+dui
+sca
 be
 bo
 bu
@@ -26,8 +40,23 @@ gus
 +tus
 +lus
 +lius
-+nus
++nus +v -c
 +trex
++Dark
++Mike
++Like
++Boss
++ne +v -c
++fe
++Hold
++Cold
++Gold
++Ez
++Ez_
++Vise +v -c
++Fx
++pool
++x
 +eher
 +zus
 +pous
@@ -50,6 +79,31 @@ gus
 -ah
 -am
 -ama
+-jery
+-fyri
+-nit
+-hax
+-pi
+-de
+-be
+-ad
+-ew
+-lib
+-kons
+-erly
+-qwipl
+-zip
+-gi
+-git
+-heri
+-disi
+-di
+-si
+-po
+-lo
+-li
+-de
+-re
 -an
 -ang +v
 -ansr +v
