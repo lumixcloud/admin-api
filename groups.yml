@@ -79,6 +79,7 @@ support:
   - 'donate.support'
 youtube:
   displayName: '&c&lYOU&f&lTUBE &c'
+  secure: true
   boost: 1.3
   subgroups:
   - 'default'
@@ -92,6 +93,7 @@ youtube:
   - 'media'
 # Стафф привилегии
 organizer:
+  secure: true
   displayName: '&f&lHOSTER &f'
   subgroups:
   - 'default'
