@@ -4,7 +4,8 @@ default:
   subgroups: []
   default: true
   permissions:
-  - '!minecraft.commands.*'
+  - '!minecraft.command.*'
+  - 'bukkit.command.plugins'
 # Привилегии
 lite:
   displayName: '&b&lLITE &b'
@@ -193,7 +194,7 @@ developer:
   - 'hmoder'
   - 'admin'
   permissions:
-  - '*'
+  - 'minecraft.command.gamemode'
 owner:
   displayName: '&4&lOWNER &4'
   secure: true
@@ -214,5 +215,4 @@ owner:
   - 'hmoder'
   - 'admin'
   - 'developer'
-  permissions:
-  - 'lox.perm'
+  permissions: []
