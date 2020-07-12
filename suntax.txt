@@ -10,6 +10,7 @@
 -di
 -do
 -du
+-io
 -e
 -eu +c
 -fa
@@ -134,6 +135,7 @@ gus
 -she
 -sum
 -syl
+-sub
 ae +c -c
 ael -c
 dar
@@ -147,12 +149,14 @@ ten
 que -v +c
 ria
 rail
+pin
 san
 +dar
 +deth
 +dre
 +drim
 +dul
++get
 +nes
 +hal
 +ten
