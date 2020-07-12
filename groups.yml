@@ -81,8 +81,14 @@ youtube:
   boost: 1.3
   subgroups:
   - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
   permissions:
-  - 'donate.youtube'
+  - 'media'
 # Стафф привилегии
 organizer:
   displayName: '&f&lHOSTER &f'
