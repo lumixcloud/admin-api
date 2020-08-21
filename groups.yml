@@ -101,6 +101,7 @@ organizer:
   permissions:
   - 'donate.organizer'
   - 'staff.ban'
+  - 'staff.mute'
 builder:
   displayName: '&3&lBUILDER &3'
   boost: 1.2
@@ -124,6 +125,7 @@ hbuilder:
   - 'builder'
   permissions:
   - 'staff.hbuilder'
+  - 'staff.mute'
 tmoder:
   displayName: '&9&lT-MODER &9'
   boost: 1.1
@@ -135,6 +137,7 @@ tmoder:
   permissions:
   - 'staff.tmoder'
   - 'staff.chat'
+  - 'staff.mute'
 moder:
   displayName: '&9&lMODER &9'
   boost: 1.2
