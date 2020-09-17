@@ -206,6 +206,7 @@ developer:
   - 'admin'
   permissions:
   - 'minecraft.command.gamemode'
+  - 'party.*'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
