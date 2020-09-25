@@ -7,6 +7,7 @@ default:
   - '!minecraft.command.*'
   - '!minecraft.command.fill'
   - 'bukkit.command.plugins'
+  - '!litebans.notify'
 early:
   displayName: '&7ΣARLY &7'
   subgroups:
