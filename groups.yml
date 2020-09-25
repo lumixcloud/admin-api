@@ -1,12 +1,19 @@
 # Стандартный ранг игрока
 default:
-  displayName: '&7ΣARLY &7'
+  displayName: '&7'
   subgroups: []
   default: true
   permissions:
   - '!minecraft.command.*'
   - '!minecraft.command.fill'
   - 'bukkit.command.plugins'
+early:
+  displayName: '&7ΣARLY &7'
+  subgroups:
+  - default
+  default: false
+  permissions:
+  - 'donate.lite'
 # Привилегии
 lite:
   displayName: '&b&lLITE &b'
