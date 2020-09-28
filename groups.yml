@@ -149,9 +149,14 @@ tmoder:
   - 'staff.mute'
   - 'litebans.kick'
   - 'litebans.checkmute'
+  - 'litebans.tempban'
   - 'litebans.tempmute'
   - 'litebans.mute'
-  - 'litebans.unmute'
+  - 'litebans.warn'
+  - 'litebans.notify.broadcast'
+  - 'litebans.notify.mute'
+  - 'litebans.history'
+  - 'gyros.alert'
 moder:
   displayName: '&9&lMODER &9'
   boost: 1.2
@@ -165,9 +170,15 @@ moder:
   - 'staff.moder'
   - 'staff.ban'
   - 'disguise.use'
-  - 'litebans.ban'
+  - 'gyros.command.stats'
   - 'litebans.dupeip'
   - 'litebans.iphistory'
+  - 'litebans.ban'
+  - 'litebans.unmute
+  - 'litebans.notify
+  - 'litebans.kick
+  - 'litebans.unwarn
+  - 'litebans.warnings
 hmoder:
   displayName: '&9&lH-MODER &9'
   boost: 1.3
@@ -183,9 +194,15 @@ hmoder:
   permissions:
   - 'staff.hmoder'
   - 'litebans.staffhistory'
-  - 'litebans.unban'
   - 'litebans.unmute'
-  - 'litebnas.ipban'
+  - 'gyros.command.log'
+  - 'litebans.unban'
+  - 'litebans.ipban'
+  - 'litebans.clearchat'
+  - 'litebans.ipmute'
+  - 'litebans.staffhistory'
+  - 'litebans.checkban'
+  - 'litebans.checkmute'
 admin:
   displayName: '&c&lADMIN &c'
   boost: 1.5
@@ -206,6 +223,10 @@ admin:
   permissions:
   - 'staff.admin'
   - 'litebans.*'
+  - 'gyros.command'
+  - 'litebans.banlist'
+  - 'litebans.lastuuid'
+  - 'litebans.mutechat'
 developer:
   displayName: '&2&lDEV &2'
   boost: 2.0
@@ -228,6 +249,7 @@ developer:
   - 'admin'
   permissions:
   - 'minecraft.command.gamemode'
+  - 'gyros.command.reload'
   - 'party.*'
   - 'proxy.admin'
   - 'worldborder.set'
