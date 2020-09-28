@@ -255,6 +255,7 @@ developer:
   - 'worldborder.set'
   - 'worldborder.fill'
   - 'worldborder.*'
+  - 'gyros.command.bungee'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
