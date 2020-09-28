@@ -174,11 +174,11 @@ moder:
   - 'litebans.dupeip'
   - 'litebans.iphistory'
   - 'litebans.ban'
-  - 'litebans.unmute
-  - 'litebans.notify
-  - 'litebans.kick
-  - 'litebans.unwarn
-  - 'litebans.warnings
+  - 'litebans.unmute'
+  - 'litebans.notify'
+  - 'litebans.kick'
+  - 'litebans.unwarn'
+  - 'litebans.warnings'
 hmoder:
   displayName: '&9&lH-MODER &9'
   boost: 1.3
