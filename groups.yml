@@ -230,6 +230,9 @@ developer:
   - 'minecraft.command.gamemode'
   - 'party.*'
   - 'proxy.admin'
+  - 'worldborder.set'
+  - 'worldborder.fill'
+  - 'worldborder.*'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
