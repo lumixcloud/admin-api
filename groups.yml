@@ -256,6 +256,7 @@ developer:
   - 'worldborder.fill'
   - 'worldborder.*'
   - 'gyros.command.bungee'
+  - 'essentials.*'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
