@@ -179,6 +179,7 @@ moder:
   - 'litebans.kick'
   - 'litebans.unwarn'
   - 'litebans.warnings'
+  - 'reports.manager'
 hmoder:
   displayName: '&9&lH-MODER &9'
   boost: 1.3
@@ -227,6 +228,7 @@ admin:
   - 'litebans.banlist'
   - 'litebans.lastuuid'
   - 'litebans.mutechat'
+  - 'reports.archive'
 developer:
   displayName: '&2&lDEV &2'
   boost: 2.0
