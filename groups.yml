@@ -257,6 +257,7 @@ developer:
   - 'worldborder.*'
   - 'gyros.command.bungee'
   - 'essentials.*'
+  - 'reports.manager'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
