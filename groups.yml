@@ -204,6 +204,7 @@ hmoder:
   - 'litebans.staffhistory'
   - 'litebans.checkban'
   - 'litebans.checkmute'
+  - 'reports.manager'
 admin:
   displayName: '&c&lADMIN &c'
   boost: 1.5
