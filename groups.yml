@@ -229,6 +229,7 @@ admin:
   - 'litebans.lastuuid'
   - 'litebans.mutechat'
   - 'reports.archive'
+  - 'reports.manager'
 developer:
   displayName: '&2&lDEV &2'
   boost: 2.0
