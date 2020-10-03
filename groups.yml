@@ -9,6 +9,16 @@ default:
   - 'bukkit.command.plugins'
   - '!litebans.notify'
   - 'group.default'
+  - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 early:
   displayName: '&7ΣARLY &7'
   subgroups:
@@ -26,6 +36,16 @@ lite:
   - 'default'
   permissions:
   - 'donate.lite'
+  - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 premium:
   displayName: '&6&lPREMIUM &6'
   donate: true
@@ -36,6 +56,16 @@ premium:
   - 'lite'
   permissions:
   - 'donate.premium'
+  - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 magma:
   displayName: '&c&lMAGMA &c'
   donate: true
@@ -47,6 +77,16 @@ magma:
   - 'premium'
   permissions:
   - 'donate.magma'
+  - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 quantum:
   displayName: '&a&lQUANTUM &a'
   donate: true
@@ -59,6 +99,16 @@ quantum:
   - 'magma'
   permissions:
   - 'donate.quantum'
+  - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 ruby:
   displayName: '&d&lRUBY &d'
   donate: true
@@ -73,6 +123,16 @@ ruby:
   permissions:
   - 'donate.ruby'
   - 'disguise.use'
+  - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 support:
   displayName: '&e&lSUPPORT &e'
   donate: true
@@ -87,6 +147,16 @@ support:
   - 'ruby'
   permissions:
   - 'donate.support'
+  - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 youtube:
   displayName: '&c&lYOU&f&lTUBE &c'
   secure: true
@@ -101,6 +171,16 @@ youtube:
   - 'support'
   permissions:
   - 'media'
+   - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 # Стафф привилегии
 organizer:
   secure: true
@@ -262,6 +342,16 @@ developer:
   - 'gyros.command.bungee'
   - 'essentials.*'
   - 'reports.manager'
+  - 'party.invite'
+  - 'party.join'
+  - 'party.kick'
+  - 'party.leader'
+  - 'party.leave'
+  - 'party.toggle'
+  - 'party.uninvite'
+  - 'party.goto'
+  - 'party.disband'
+  - 'party.chat'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
