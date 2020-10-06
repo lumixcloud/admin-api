@@ -20,7 +20,7 @@ default:
   - 'party.disband'
   - 'party.chat'
 troll:
-  displayName: '&aЗ&bА&cТ&dР&eО&fЛ&6Е&9Н'
+  displayName: '&bЗА&6ТРО&aЛЕ&6Н'
   subgroups: []
   default: true
   permissions:
