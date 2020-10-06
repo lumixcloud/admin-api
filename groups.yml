@@ -304,6 +304,7 @@ developer:
   - 'party.chat'
   - 'group.staff'
   - 'minecraft.command.*'
+  - 'effects.*'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
