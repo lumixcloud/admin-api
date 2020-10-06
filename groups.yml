@@ -305,6 +305,7 @@ developer:
   - 'group.staff'
   - 'minecraft.command.*'
   - 'effects.*'
+  - 'minecraft.command.effect'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
