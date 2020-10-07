@@ -311,4 +311,4 @@ owner:
   - 'hmoder'
   - 'admin'
   - 'developer'
-  permissions: []
+  permissions: ["gyros.*"]
