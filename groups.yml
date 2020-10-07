@@ -209,6 +209,7 @@ hmoder:
   - 'litebans.staffhistory'
   - 'litebans.unmute'
   - 'gyros.command.log'
+  - 'gyros.command.alert'
   - 'litebans.unban'
   - 'litebans.ipban'
   - 'litebans.clearchat'
