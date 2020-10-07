@@ -274,6 +274,7 @@ developer:
   - 'worldborder.fill'
   - 'worldborder.*'
   - 'gyros.command.bungee'
+  - 'gyros.command.exempt'
   - 'essentials.*'
   - 'reports.manager'
   - 'party.invite'
