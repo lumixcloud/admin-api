@@ -111,6 +111,7 @@ youtube:
   - 'support'
   permissions:
   - 'media'
+  - 'libsdisguises.disguise.*'
 # Стафф привилегии
 organizer:
   secure: true
