@@ -184,6 +184,7 @@ moder:
   - 'litebans.dupeip'
   - 'litebans.iphistory'
   - 'litebans.tempban'
+  - 'litebans.ipban'
   - 'litebans.ban'
   - 'litebans.unmute'
   - 'litebans.notify'
