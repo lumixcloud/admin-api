@@ -97,6 +97,24 @@ support:
   - 'ruby'
   permissions:
   - 'donate.support'
+admindonate:
+  displayName: '&0&lADMIN &0'
+  donate: true
+  boost: 5
+  reward-buy: 30000 
+  subgroups:
+  - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
+  permissions:
+  - 'litebans.group.admindonate'
+  - 'litebans.kick'
+  - 'litebans.tempban'
+  - 'litebans.tempmute'
 youtube:
   displayName: '&c&lYOU&f&lTUBE &c'
   secure: true
