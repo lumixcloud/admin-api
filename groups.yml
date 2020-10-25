@@ -98,8 +98,8 @@ support:
   permissions:
   - 'donate.support'
 admindonate:
-  displayName: '&0&lADMIN &0'
-  donate: true
+  displayName: '&8&lADMIN &8'
+  donate: false
   boost: 5
   reward-buy: 30000 
   subgroups:
