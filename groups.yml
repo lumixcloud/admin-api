@@ -4,8 +4,6 @@ default:
   subgroups: []
   default: true
   permissions:
-  - '!minecraft.command.*'
-  - '!minecraft.command.fill'
   - 'bukkit.command.plugins'
   - '!litebans.notify'
   - 'group.default'
