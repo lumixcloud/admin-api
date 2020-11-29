@@ -130,13 +130,20 @@ youtube:
 # Стафф привилегии
 organizer:
   secure: true
-  displayName: '&f&lHOSTER &f'
+  displayName: '&f&lORGANIZE &f'
   subgroups:
   - 'default'
+  - 'lite'
+  - 'premium'
+  - 'magma'
+  - 'quantum'
+  - 'ruby'
+  - 'support'
   permissions:
   - 'donate.organizer'
   - 'staff.ban'
   - 'staff.mute'
+  - 'staff.chat'
 builder:
   displayName: '&3&lBUILDER &3'
   boost: 1.2
