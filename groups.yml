@@ -315,6 +315,7 @@ developer:
   - 'minecraft.command.*'
   - 'effects.*'
   - 'minecraft.command.effect'
+  - 'bw.*'
 owner:
   displayName: '&4&lOWNER &4'
   boost: 1.5
